@@ -1,0 +1,6 @@
+@profile_platform_HostAddress = http://localhost:5054
+
+GET {{profile_platform_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
